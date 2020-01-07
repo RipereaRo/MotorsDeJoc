@@ -1,1 +1,6 @@
+Profes:
+Ricard Perea rperea@tecnocampus.cat
+Rafael Gonzalez: rgonzalez@tecnocampus.cat
+
+Links:
 https://nvie.com/posts/a-successful-git-branching-model/
